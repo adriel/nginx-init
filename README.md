@@ -12,7 +12,8 @@ Feel to fork this and change the top variables with your configuration.
 
 Notes
 ====================
-This is a modified nginx init `apt-get` script should work with a vanilla (defaults) build of nginx.
+This is a modified nginx init `apt-get` script. 
+It should work with a vanilla (defaults) build of nginx.
 
 Example
 ====================

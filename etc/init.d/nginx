@@ -1,5 +1,6 @@
 #!/bin/sh
-# Script version: 0.1
+# Script version: 0.2
+
 # Origianl copy of /etc/init.d/nginx script from Debian 6.1a using souce unstable (sid)
 # Date copied: 18/04/2011
 # nginx version: 1.0.0-2

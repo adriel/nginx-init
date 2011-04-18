@@ -4,8 +4,15 @@
 # nginx version: 1.0.0-2
 # Installed via "apt-get install nginx" while using sid sources
 
+# Modifted nginx init script should work with a vanilla copy of nginx when compiled 
+
+##Stuff to do when setting up this script
+# nano /etc/init.d/nginx
+# chmod +x /etc/init.d/nginx
+# update-rc.d nginx defaults
+
 ### BEGIN INIT INFO
-# Provides:          nginx
+# Provides:          nginx
 # Required-Start:    $local_fs $remote_fs $network $syslog
 # Required-Stop:     $local_fs $remote_fs $network $syslog
 # Default-Start:     2 3 4 5

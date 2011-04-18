@@ -8,3 +8,8 @@ Stuff to do when setting up this script:
 	chmod +x /etc/init.d/nginx
 	update-rc.d nginx defaults
 	
+Test it
+
+	/etc/init.d/nginx start
+	/etc/init.d/nginx stop
+	/etc/init.d/nginx status

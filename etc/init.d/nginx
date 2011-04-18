@@ -1,4 +1,8 @@
 #!/bin/sh
+# Origianl copy of /etc/init.d/nginx script from Debian 6.1a using souce unstable (sid)
+# Date copied: 18/04/2011
+# nginx version: 1.0.0-2
+# Installed via "apt-get install nginx" while using sid sources
 
 ### BEGIN INIT INFO
 # Provides:          nginx

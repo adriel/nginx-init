@@ -1,0 +1,1 @@
+nginx init.d script to start/stop/status etc (modified one from Debian 6 nignx repo for compiled nginx)

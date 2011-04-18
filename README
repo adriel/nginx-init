@@ -7,3 +7,4 @@ Stuff to do when setting up this script:
 	nano /etc/init.d/nginx
 	chmod +x /etc/init.d/nginx
 	update-rc.d nginx defaults
+	
